@@ -1,0 +1,23 @@
+{
+  "module": "spotify-playlist-dl",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "matcher": {
+      "enabled": true
+    },
+    "downloader": {
+      "enabled": true
+    },
+    "tags": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
