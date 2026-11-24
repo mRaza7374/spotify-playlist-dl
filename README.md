@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="spotify-playlist-dl" width="840" />
-
 # Spotify Music DL — Spotify Music DL — Playlist to MP3 Converter with ID3 Tags (One-Command Setup, Prebuilt Release)
 
 <p><strong>Spotify Music DL — Spotify Music DL — Playlist to MP3 Converter with ID3 Tags (One-Command Setup, Prebuilt Release): Your playlists, your files. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
